@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
