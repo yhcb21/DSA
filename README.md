@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yhcb21/DSA/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
 ## Enumeration
@@ -71,9 +72,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yhcb21/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/yhcb21/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yhcb21/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/yhcb21/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
