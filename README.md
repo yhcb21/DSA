@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yhcb21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
+| [2104-sum-of-subarray-ranges](https://github.com/yhcb21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yhcb21/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yhcb21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yhcb21/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yhcb21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/yhcb21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yhcb21/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [2104-sum-of-subarray-ranges](https://github.com/yhcb21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
