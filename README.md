@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yhcb21/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yhcb21/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yhcb21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yhcb21/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yhcb21/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yhcb21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/yhcb21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yhcb21/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
