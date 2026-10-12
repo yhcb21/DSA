@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/yhcb21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yhcb21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yhcb21/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yhcb21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yhcb21/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yhcb21/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yhcb21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yhcb21/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/yhcb21/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yhcb21/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yhcb21/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Game Theory
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yhcb21/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Pigeonhole Principle
 |  |
 | ------- |
