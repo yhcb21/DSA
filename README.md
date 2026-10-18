@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yhcb21/DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/yhcb21/DSA/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
