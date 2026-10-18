@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yhcb21/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yhcb21/DSA/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/yhcb21/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yhcb21/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/yhcb21/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Pigeonhole Principle
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yhcb21/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/yhcb21/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/yhcb21/DSA/tree/master/0071-simplify-path) |
 | [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -196,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yhcb21/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
