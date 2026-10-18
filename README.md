@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yhcb21/DSA/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/yhcb21/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/yhcb21/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Pigeonhole Principle
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yhcb21/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/yhcb21/DSA/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
 | ------- |
