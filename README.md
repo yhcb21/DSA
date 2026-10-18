@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
+| [2469-convert-the-temperature](https://github.com/yhcb21/DSA/tree/master/2469-convert-the-temperature) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yhcb21/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yhcb21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
