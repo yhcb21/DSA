@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yhcb21/DSA/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yhcb21/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yhcb21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yhcb21/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/yhcb21/DSA/tree/master/0071-simplify-path) |
+| [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yhcb21/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yhcb21/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yhcb21/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
