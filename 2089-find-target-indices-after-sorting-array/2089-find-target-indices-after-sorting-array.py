@@ -1,15 +1,13 @@
+
 class Solution:
     def targetIndices(self, nums: list[int], target: int) -> list[int]:
-        ans = []
+        count = 0
+        freq = 0
 
-        nums_sorted = sorted(nums)
+        for i in range(len(nums)):
+            if nums[i] < target:
+                count += 1
+            elif nums[i] == target:
+                freq += 1
 
-        
-        for i in range(0, len(nums)):
-            
-            if nums_sorted[i] == target:
-                ans.append(i)
-
-        return ans
-        
-        
+        return list(range(count, count + freq))
