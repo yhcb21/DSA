@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yhcb21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yhcb21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/yhcb21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yhcb21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yhcb21/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yhcb21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yhcb21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yhcb21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yhcb21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yhcb21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yhcb21/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yhcb21/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
