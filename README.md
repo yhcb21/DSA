@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yhcb21/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/yhcb21/DSA/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/yhcb21/DSA/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/yhcb21/DSA/tree/master/2469-convert-the-temperature) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yhcb21/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yhcb21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yhcb21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/yhcb21/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yhcb21/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/yhcb21/DSA/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
