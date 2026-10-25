@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yhcb21/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yhcb21/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yhcb21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/yhcb21/DSA/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yhcb21/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/yhcb21/DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/yhcb21/DSA/tree/master/0283-move-zeroes) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yhcb21/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/yhcb21/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/yhcb21/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yhcb21/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/yhcb21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/yhcb21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yhcb21/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
