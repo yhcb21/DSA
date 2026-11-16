@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yhcb21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/yhcb21/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yhcb21/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yhcb21/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/yhcb21/DSA/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/yhcb21/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/yhcb21/DSA/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yhcb21/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
